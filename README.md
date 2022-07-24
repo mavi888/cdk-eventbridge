@@ -80,7 +80,7 @@ Load the sample data in the `data` directory, use the same stack name you entere
 
 ### Create your first order
 
-Create an order for `customer-1` buing `item-1` calling the Create Order API:
+Create an order for `customer-1` buying `item-1` by calling the Create Order API:
 
 ```
 curl -i <API Gateway URL>/order/create/customer-1/item-1
